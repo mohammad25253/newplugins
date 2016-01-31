@@ -210,6 +210,7 @@ function create_config( )
     "LockTag",
     "banhammer",
     "stats",
+    "spam",
     "anti_spam",
     "owners",
     "arabic_lock",
@@ -220,21 +221,20 @@ function create_config( )
     "lock_link",
     "all"
     },
-    sudo_users = {120518968,132472033},--Sudo users
-    disabled_channels = {},
+    sudo_users = {150575718},--Sudo users
+   
+    https  disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.0
+    about_text = [[
     
      Hello my Good friends 😀🖐🏻
      
     ‼️ this bot is made by : @creed_is_dead
    〰〰〰〰〰〰〰〰
    🚩 Our admins are : 
-   🔰 @sorblack_creed
-   🔰 @amircc_creed
-   🔰 @aria_creed
-   🔰 @alireza_mah_creed 
+   🔰 @mohammad20162015
+   🔰 @mohammad20162015
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    
